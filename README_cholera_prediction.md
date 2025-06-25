@@ -20,17 +20,6 @@ This repository contains the code and resources for a machine learning study aim
 
 ---
 
-## 📂 **Repository Structure**
-```
-/data          → Contains anonymized dataset (if shared publicly)
-/notebooks     → Jupyter notebook(s) for data analysis, modeling, and evaluation
-/scripts       → Python scripts (if any) for modular code
-/visuals       → Generated plots (ROC curves, confusion matrices, etc.)
-README.md      → Project documentation
-```
-
----
-
 ## ⚙ **Technologies**
 - Python 3.x
 - Pandas
