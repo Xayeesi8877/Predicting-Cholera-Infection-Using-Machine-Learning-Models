@@ -51,10 +51,5 @@ jupyter notebook
 
 ---
 
-## 🛡 **License**
-This project is licensed under the MIT License — see `LICENSE` file for details.
-
----
-
 ## 🙌 **Acknowledgments**
 Thanks to all contributors, healthcare professionals, and open data initiatives that make this work possible.
